@@ -60,14 +60,14 @@ public class A1Jedi {
 		}
 	}
 
-	static void updateamount(item[] items, String nameofitem, int quantity, int CusCount) {
+	static void updateamount(item[] items, String nameofitem, int quantity) {
 		for (int a = 0; a < items.length; a++) {
 			if (items[a].name.equals(nameofitem)) {
 				items[a].amountofitem += quantity;
-				if (CusCount )
 				items[a].numcus++;
 			}
-
+			if (items[a].name.equals(nameofitem) == items[a-1].name.equals(nameofitem))
+				items[a].numcus--;
 			}
 		}
 
