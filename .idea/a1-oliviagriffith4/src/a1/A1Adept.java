@@ -53,8 +53,8 @@ public class A1Adept {
 		}
 		double average = GrandTotal / NumCustomers;
 		String averagestring = String.format("%.2f", average);
-		System.out.println("Biggest" + ": " + biggest);
-		System.out.println("Smallest" + ": " + smallest);
+		System.out.println("Biggest" + ": " + biggest.first + biggest.last + " (" + biggest.amount + ")");
+		System.out.println("Smallest" + ": " +  smallest.first + smallest.last + " (" + smallest.amount + ")");
 		System.out.println("Average" + ": " + averagestring);
 	}
 
