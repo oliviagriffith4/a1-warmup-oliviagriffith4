@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca0b982-c27f-402d-834a-5dc46f334147" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/a1-oliviagriffith4/src/a1/A1Adept.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/a1-oliviagriffith4/src/a1/A1Adept.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.A1Adept">
-    <configuration name="A1Adept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="A1Adept" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a1.A1Adept" />
       <extension name="coverage">
         <pattern>
@@ -56,7 +55,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A1Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="A1Example" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a1.A1Example" />
       <module name="a1-warmup-oliviagriffith4" />
       <extension name="coverage">
@@ -69,7 +68,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A1Novice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="A1Novice" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="a1.A1Novice" />
       <module name="a1-warmup-oliviagriffith4" />
       <extension name="coverage">
@@ -82,13 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.A1Adept" />
-        <item itemvalue="Application.A1Novice" />
-        <item itemvalue="Application.A1Example" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,7 +97,8 @@
       <workItem from="1597933136823" duration="42000" />
       <workItem from="1597933310475" duration="91000" />
       <workItem from="1597933462771" duration="655000" />
-      <workItem from="1597962606391" duration="113000" />
+      <workItem from="1597962606391" duration="306000" />
+      <workItem from="1597962924273" duration="273000" />
     </task>
     <servers />
   </component>
