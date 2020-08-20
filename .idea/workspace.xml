@@ -98,7 +98,7 @@
       <workItem from="1597933310475" duration="91000" />
       <workItem from="1597933462771" duration="655000" />
       <workItem from="1597962606391" duration="306000" />
-      <workItem from="1597962924273" duration="273000" />
+      <workItem from="1597962924273" duration="513000" />
     </task>
     <servers />
   </component>
@@ -110,9 +110,10 @@
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="302" y="123" width="1138" height="617" key="DiffContextDialog/0.23.1440.829@0.23.1440.829" timestamp="1597934071821" />
-    <state x="550" y="305" key="Github.CreatePullRequestDialog" timestamp="1597933973373">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="550" y="305" key="Github.CreatePullRequestDialog" timestamp="1597963387853">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
+    <state x="550" y="305" key="Github.CreatePullRequestDialog/0.23.1440.828@0.23.1440.828" timestamp="1597963387853" />
     <state x="550" y="305" key="Github.CreatePullRequestDialog/0.23.1440.829@0.23.1440.829" timestamp="1597933973373" />
     <state x="718" y="335" key="Github.ShareDialog" timestamp="1597933737507">
       <screen x="0" y="23" width="1440" height="829" />
